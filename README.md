@@ -2,8 +2,8 @@
 
 A new Flutter application using single code base to develop mobile application for both iOS and Android.
 
-![](demo/iOS.gif)
-![](demo/Android.gif)
+![iOS](demo/iOS.gif)
+![Android](demo/Android.gif)
 
 
 ## Getting Started
