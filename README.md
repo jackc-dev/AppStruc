@@ -1,6 +1,10 @@
 # Cross-Platform Development Demo
 
-A new Flutter application.
+A new Flutter application using single code base to develop mobile application for both iOS and Android.
+
+![](demo/iOS.gif)
+![](demo/Android.gif)
+
 
 ## Getting Started
 
