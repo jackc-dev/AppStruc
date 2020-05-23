@@ -1,4 +1,4 @@
-# demo
+# Cross-Platform Development Demo
 
 A new Flutter application.
 
